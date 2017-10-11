@@ -1,0 +1,2 @@
+C:\Users\pavel\Desktop\Lab_1\First_App_Prim\obj\Release\First_App_Prim.Properties.Resources.resources
+C:\Users\pavel\Desktop\Lab_1\First_App_Prim\obj\Release\First_App_Prim.csproj.GenerateResource.Cache
